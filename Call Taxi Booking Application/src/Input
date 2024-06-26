@@ -1,0 +1,20 @@
+Call taxi booking
+4
+6
+new Booking
+Customer ID: 1
+Pickup Point: A
+Drop Point: B
+Pickup Time: 9
+new Booking
+Customer ID: 2
+Pickup Point: B
+Drop Point: D
+Pickup Time: 9
+new Booking
+Customer ID: 3
+Pickup Point: B
+Drop Point: C
+Pickup Time: 12
+Display earnings
+exit
